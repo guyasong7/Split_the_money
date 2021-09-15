@@ -1,0 +1,27 @@
+.btn {
+    width: 100%;
+}
+
+.main {
+    max-width: 500px;
+    margin: 10% auto 0;
+    padding-top: 90px;
+}
+
+.main1 {
+    background-color: #ccc;
+    height: 500px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#showAmount {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 29px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
